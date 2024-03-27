@@ -2,4 +2,11 @@
 title: "About"
 ---
 
-Testing the website
+## Motivation & Aim
+
+The use of software is generally a necessary, or even primary, component of research in statistics, but often statistically trained individuals are not well equipped or trained deeply on computer science, programming principles or even with handling real data. The main idea of this study group is to be greater than the sum of its parts, that is, rather than learning in isolation, we share knowledge and accelerate our learning – hopefully all while having fun! 
+
+The overarching aim of this study group is to foster an environment for Monash EBS students to get feedback and ideas from those outside their usual mentoring network (usually their supervisors) on matters related to data science research software, facilitate peer mentoring and network. The students get an opportunity to present their work concisely (getting the practice they need), teach concepts they learnt and/or learn from others. 
+
+## Code of conduct
+Use common sense - be kind and respectful. Criticism should be constructive and designed to improve a student's work. 

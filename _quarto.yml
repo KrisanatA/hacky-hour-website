@@ -7,6 +7,18 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - text: Schedule
+        href: schedule.qmd
+      - text: Activiy
+        menu: 
+          - text: Kick Off
+            file: kick-off.qmd
+          - text: Quarto Craft
+            file: quarto-craft.qmd
+          - text: Package Design Feedback
+            file: package-design-session01.qmd
+      - text: News
+        href: news.qmd
       - about.qmd
 
 format:
@@ -14,6 +26,9 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    
+filters:
+  - shinylive
 
 
 

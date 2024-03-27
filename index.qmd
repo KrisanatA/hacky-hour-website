@@ -2,3 +2,41 @@
 title: "NUMBAT Hacky hour"
 ---
 
+## Session Schedule
+
+If you would like to subscribe to the calendar click [here](https://calendar.google.com/calendar/u/0?cid=Y19lODdmNWI3NTMwMWEyN2NjYjExNWFjYTQwZTcxMGFlM2ExMzY3NTllNDFkMDUzNWI5ZGY3OGUyYzEyZmFiMjg2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20). (Make sure you are logged into your Monash account)
+
+### 2024 Semester 1
+
+#### Date & Time: 
+
+Thursdays (mixed timing)
+11AM-12.30PM on NUMBATS Seminar;
+1.30-3PM on non-seminar weeks; with virtual option ([Zoom Link](https://monash.zoom.us/j/82476265322?pwd=L0ZrVkhPYmFCSEoxWGR2dVlMaTA2UT09))
+
+
+#### Location: 
+
+Room 317, Building 6, 29 Ancora Imparo Way (unless indicated otherwise)
+
+
+#### Format: 
+
+Alternating formats
+Hacky Hour (same as NUMBATS seminar weeks):
+Shut Up and Code
+
+
+#### Study Group:
+
+Show & Tell sessions: 
+Try it out workshops – Mitch masterclasses?
+
+
+#### Audience/Focus:
+
+NOT drop-in help session
+Invitation by regular attendees (regular means?)
+Software & tools focus
+
+
