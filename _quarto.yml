@@ -12,11 +12,11 @@ website:
       - text: Activiy
         menu: 
           - text: Kick Off
-            file: kick-off.qmd
+            file: articles/kick-off.qmd
           - text: Quarto Craft
-            file: quarto-craft.qmd
+            file: articles/quarto-craft.qmd
           - text: Package Design Feedback
-            file: package-design-session01.qmd
+            file: articles/package-design-session01.qmd
       - text: News
         href: news.qmd
       - about.qmd

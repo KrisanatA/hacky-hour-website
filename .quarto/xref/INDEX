@@ -22,5 +22,26 @@
   },
   "schedule.qmd": {
     "schedule.html": "890ce50a"
+  },
+  "articles/kick-off.qmd": {
+    "kick-off.html": "a2d36ce3"
+  },
+  "articles/package-design-session01.qmd": {
+    "package-design-session01.html": "27fd984d"
+  },
+  "articles/quarto-craft.qmd": {
+    "quarto-craft.html": "6977f831"
+  },
+  "tabs/index.qmd": {
+    "index.html": "769a76d6"
+  },
+  "tabs/about.qmd": {
+    "about.html": "97135d87"
+  },
+  "tabs/news.qmd": {
+    "news.html": "6635465f"
+  },
+  "tabs/schedule.qmd": {
+    "schedule.html": "448cf49d"
   }
 }
