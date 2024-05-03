@@ -1,0 +1,20 @@
+---
+title: Interesting News
+date: last-modified
+date-format: long
+---
+
+- 29 Feb 2024
+  - <https://www.monash.edu/researchinfrastructure/eresearch/news/expressions-of-interest-open-for-designing-new-software-or-enhancing-existing-research-codes>
+  - <https://events.linuxfoundation.org/user/register/>
+  - <https://ssa2024.talks.jamesgoldie.dev/#/james-goldie>
+  - <https://carmamaths.org/art/gallery/competition/>
+
+- 7 Mar 2024
+  - <https://datamishapsnight.com/>
+
+- 21 Mar 2024
+  - <https://github.com/wurli/r-best-practice>
+  - <https://www.milesmcbain.com/posts/data-analysis-reuse/https://www.milesmcbain.com/posts/data-analysis-reuse/>
+  - <https://github.com/FinYang/cran-submission-checklist>
+  - <https://kestra.io/blogs/2023-08-11-dataframes>

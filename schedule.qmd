@@ -1,3 +1,53 @@
 ---
 title: Session Schedule
+execute:
+    echo: false
+    output: false
 ---
+
+```{r}
+library(ggtilecal)
+library(dplyr)
+library(tibble)
+library(lubridate)
+library(yaml)
+library(ggplot2)
+library(ggiraph)
+```
+
+```{r}
+source(here::here("calendar.R"))
+```
+
+```{r}
+schedules_data <- here::here("schedules.yml") |> read_yaml()
+
+key_dates_schedules <- schedules_data |>
+    yaml_date_nodes_to_tbl() |>
+    tidy_date_tbl() |>
+    verify_date_df() |>
+    dplyr::mutate(id = row_number()) |>
+    dplyr::relocate(id, .before = details)
+
+numbat_long <- key_dates_schedules |>
+    reframe_events(startDate, endDate)
+
+
+test <- numbat_long |>
+    gg_facet_wrap_months(unit_date) +
+    geom_text(aes(label = emoji), nudge_y = -0.25, nudge_x = -0.1, size = 3.5, na.rm = TRUE) +
+    geom_tile_interactive(
+        aes(
+            tooltip = paste(details),
+            data_id = id
+        ),
+        alpha = 0.2,
+        fill = "transparent",
+        colour = "grey80"
+    )
+```
+
+```{r}
+#| output: true
+ggiraph::girafe(ggobj = test)
+```

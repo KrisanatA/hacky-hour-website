@@ -1,0 +1,22 @@
+---
+title: Package Design Feedback session 2
+date: 04/18/2024
+date-format: long
+---
+
+## Format
+
+15+15 mins Presentation + Discussion
+
+## Details
+
+Explain a software design/engineering problem you are facing in your current package work. Slides optional. Suggested presentation structure:
+
+1. **Package Context (1-2 mins)**: Background, motivation, target user, features etc.
+2. **Development Challenge(s) (5-7 mins)**: Outline the specific problem/idea you want feedback
+
+## Speakers
+
+1. Kris - animbook https://github.com/KrisanatA/animbook
+2. Patrick - autovi
+3. Fin - pindex

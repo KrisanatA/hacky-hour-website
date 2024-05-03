@@ -1,0 +1,63 @@
+---
+title: Quarto Craft session
+date: 03/07/2024
+date-format: long
+---
+
+## Format
+
+Before: 10 min Show and tell slots
+
+After: 15 min Show and tell slots
+
+## Details
+
+Show off some cool things you've done with quarto, share a strong opinion about quarto, or ask for help with quarto problems
+
+## Speakers
+
+- Michael - Quarto productivity in VSCode
+  - Snippets; keybindins or palette
+  - Michael's Shippets 
+    - <https://gist.github.com/MikeLydeamore/60bdaa80a746215d593f99d52d7df083>
+  - `shrtcts` for RStudio 
+    - <https://github.com/gadenbuie/shrtcts>
+
+
+- Filip - Puzzle template
+  - Generate code chunks incremenally at pipe
+    - <https://www.filipr.com/posts/r-puzzle-template/>
+    - Global environment issues?
+  - Beamer template
+    - <https://www.filipr.com/posts/beamer-theme/>
+    
+
+- Cynthia - Combining quarto extension (themes,etc)
+  - <https://www.cynthiahqy.com/posts/quarto-extensions-explainer/>
+  
+
+- Mitch - webr in quarto
+  - <https://github.com/mitchelloharawild/quarto-webr-teachr>
+  
+  
+- Janith - Observable
+  - <https://janithwanni.quarto.pub/fun-with-ojs/>
+  - D3js - blank canvas
+  - Observable Plot: prepared plots for exploratory data analysis
+  - Observable JS
+    - Passing R data to Observable requires transpose
+    - Similar design to ggplot; different syntax
+    - Out of the box interactivity, or very custom beyond ggplot2
+    - <https://observablehq.com/@tashapiro>
+    - For a comparison of ggplot and observable: <https://observablehq.com/@observablehq/plot-from-ggplot2>
+    - <https://uwdata.github.io/mosaic/what-is-mosaic/>
+    
+
+- Di - quarto books
+  - Authoring HTML & PDF versions of a textbook in Quarto
+  - HTML ignores latex commands like `\index()`, `.content-visible` conditional content based on HTML/PDF -
+  <https://quarto.org/docs/authoring/conditional.html>
+  - `echo-knitr::is_html_output()`
+
+
+  

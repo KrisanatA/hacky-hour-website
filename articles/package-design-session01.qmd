@@ -1,0 +1,22 @@
+---
+title: Package Design Feedback session
+date: 04/18/2024
+date-format: long
+---
+
+## Format
+
+10+10 mins Presentation + Discussion
+
+## Details
+
+Explain a software design/engineering problem you are facing in your current package work. Slides optional. Suggested presentation structure:
+
+1. **Package Context (1-2 mins)**: Background, motivation, target user, features etc.
+2. **Development Challenge(s) (5-7 mins)**: Outline the specific problem/idea you want feedback
+
+## Speakers
+
+1. Floyd - [prefio](https://github.com/fleverest/prefio)
+2. David K. (SoDa Labs) - [synthreturn](https://github.com/davidkreitmeir/synthReturn)
+3. Jayani - [quollr](https://github.com/JayaniLakshika/quollr)

@@ -1,0 +1,36 @@
+project:
+  type: website
+
+website:
+  title: "NUMBAT Hacky Hour"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Schedule
+        href: schedule.qmd
+      - text: Activiy
+        menu: 
+          - text: Kick Off
+            file: articles/kick-off.qmd
+          - text: Quarto Craft
+            file: articles/quarto-craft.qmd
+          - text: Package Design Feedback 1
+            file: articles/package-design-session01.qmd
+          - text: Package Design Feedback 2
+            file: articles/package-design-session02.qmd
+      - text: News
+        href: news.qmd
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    
+filters:
+  - shinylive
+
+
+

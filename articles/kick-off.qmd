@@ -1,0 +1,17 @@
+---
+title: Kick Off session
+date: 02/29/2024
+date-format: long
+---
+
+## Discussion
+
+- Fun name ideas! - RST study group?
+- Session ideas & scheduling (initial EOI for presenting)
+  - Accessibility: Show & Tell?
+  - Git Tricks
+  - Poster/Presentation Design
+  - Teaching R/software tools Show & Tell
+  - `vctrs` workshop
+- Session format/frequency (could some activities fall in hacky hour weeks?)
+- Inviting other attendees - advancedR students
