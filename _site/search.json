@@ -1,150 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "NUMBAT Hacky hour",
-    "section": "",
-    "text": "If you would like to subscribe to the calendar click here. (Make sure you are logged into your Monash account)\n\n\n\n\nThursdays (mixed timing) 11AM-12.30PM on NUMBATS Seminar; 1.30-3PM on non-seminar weeks; with virtual option (Zoom Link)\n\n\n\nRoom 317, Building 6, 29 Ancora Imparo Way (unless indicated otherwise)\n\n\n\nAlternating formats Hacky Hour (same as NUMBATS seminar weeks): Shut Up and Code\n\n\n\nShow & Tell sessions: Try it out workshops – Mitch masterclasses?\n\n\n\nNOT drop-in help session Invitation by regular attendees (regular means?) Software & tools focus"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "The use of software is generally a necessary, or even primary, component of research in statistics, but often statistically trained individuals are not well equipped or trained deeply on computer science, programming principles or even with handling real data. The main idea of this study group is to be greater than the sum of its parts, that is, rather than learning in isolation, we share knowledge and accelerate our learning – hopefully all while having fun!\nThe overarching aim of this study group is to foster an environment for Monash EBS students to get feedback and ideas from those outside their usual mentoring network (usually their supervisors) on matters related to data science research software, facilitate peer mentoring and network. The students get an opportunity to present their work concisely (getting the practice they need), teach concepts they learnt and/or learn from others."
-  },
-  {
     "objectID": "LICENSE.html",
     "href": "LICENSE.html",
     "title": "MIT License",
     "section": "",
     "text": "MIT License\nCopyright (c) 2024 hacky-hour-website authors\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
-  },
-  {
-    "objectID": "kick-off.html",
-    "href": "kick-off.html",
-    "title": "Kick Off session",
-    "section": "",
-    "text": "Fun name ideas! - RST study group?\nSession ideas & scheduling (initial EOI for presenting)\n\nAccessibility: Show & Tell?\nGit Tricks\nPoster/Presentation Design\nTeaching R/software tools Show & Tell\nvctrs workshop\n\nSession format/frequency (could some activities fall in hacky hour weeks?)\nInviting other attendees - advancedR students"
-  },
-  {
-    "objectID": "quarto-craft.html",
-    "href": "quarto-craft.html",
-    "title": "Quarto Craft session",
-    "section": "",
-    "text": "Before: 10 min Show and tell slots\nAfter: 15 min Show and tell slots"
-  },
-  {
-    "objectID": "quarto-craft.html#format",
-    "href": "quarto-craft.html#format",
-    "title": "Quarto Craft session",
-    "section": "",
-    "text": "Before: 10 min Show and tell slots\nAfter: 15 min Show and tell slots"
-  },
-  {
-    "objectID": "quarto-craft.html#details",
-    "href": "quarto-craft.html#details",
-    "title": "Quarto Craft session",
-    "section": "Details",
-    "text": "Details\nShow off some cool things you’ve done with quarto, share a strong opinion about quarto, or ask for help with quarto problems"
-  },
-  {
-    "objectID": "quarto-craft.html#speakers",
-    "href": "quarto-craft.html#speakers",
-    "title": "Quarto Craft session",
-    "section": "Speakers",
-    "text": "Speakers\n\nMichael - Quarto productivity in VSCode\n\nSnippets; keybindins or palette\nMichael’s Shippets\n\nhttps://gist.github.com/MikeLydeamore/60bdaa80a746215d593f99d52d7df083\n\nshrtcts for RStudio\n\nhttps://github.com/gadenbuie/shrtcts\n\n\nFilip - Puzzle template\n\nGenerate code chunks incremenally at pipe\n\nhttps://www.filipr.com/posts/r-puzzle-template/\nGlobal environment issues?\n\nBeamer template\n\nhttps://www.filipr.com/posts/beamer-theme/\n\n\nCynthia - Combining quarto extension (themes,etc)\n\nhttps://www.cynthiahqy.com/posts/quarto-extensions-explainer/\n\nMitch - webr in quarto\n\nhttps://github.com/mitchelloharawild/quarto-webr-teachr\n\nJanith - Observable\n\nhttps://janithwanni.quarto.pub/fun-with-ojs/\nD3js - blank canvas\nObservable Plot: prepared plots for exploratory data analysis\nObservable JS\n\nPassing R data to Observable requires transpose\nSimilar design to ggplot; different syntax\nOut of the box interactivity, or very custom beyond ggplot2\nhttps://observablehq.com/@tashapiro\nFor a comparison of ggplot and observable: https://observablehq.com/@observablehq/plot-from-ggplot2\nhttps://uwdata.github.io/mosaic/what-is-mosaic/\n\n\nDi - quarto books\n\nAuthoring HTML & PDF versions of a textbook in Quarto\nHTML ignores latex commands like \\index(), .content-visible conditional content based on HTML/PDF - https://quarto.org/docs/authoring/conditional.html\necho-knitr::is_html_output()"
-  },
-  {
-    "objectID": "package-design-session01.html",
-    "href": "package-design-session01.html",
-    "title": "Package Design Feedback session",
-    "section": "",
-    "text": "10+10 mins Presentation + Discussion"
-  },
-  {
-    "objectID": "package-design-session01.html#format",
-    "href": "package-design-session01.html#format",
-    "title": "Package Design Feedback session",
-    "section": "",
-    "text": "10+10 mins Presentation + Discussion"
-  },
-  {
-    "objectID": "package-design-session01.html#details",
-    "href": "package-design-session01.html#details",
-    "title": "Package Design Feedback session",
-    "section": "Details",
-    "text": "Details\nExplain a software design/engineering problem you are facing in your current package work. Slides optional. Suggested presentation structure:\n\nPackage Context (1-2 mins): Background, motivation, target user, features etc.\nDevelopment Challenge(s) (5-7 mins): Outline the specific problem/idea you want feedback"
-  },
-  {
-    "objectID": "package-design-session01.html#speakers",
-    "href": "package-design-session01.html#speakers",
-    "title": "Package Design Feedback session",
-    "section": "Speakers",
-    "text": "Speakers\n\nFloyd - prefio\nDavid K. (SoDa Labs) - synthreturn\nJayani - quollr"
-  },
-  {
-    "objectID": "kick-off.html#discussion",
-    "href": "kick-off.html#discussion",
-    "title": "Kick Off session",
-    "section": "",
-    "text": "Fun name ideas! - RST study group?\nSession ideas & scheduling (initial EOI for presenting)\n\nAccessibility: Show & Tell?\nGit Tricks\nPoster/Presentation Design\nTeaching R/software tools Show & Tell\nvctrs workshop\n\nSession format/frequency (could some activities fall in hacky hour weeks?)\nInviting other attendees - advancedR students"
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "Interesting News",
-    "section": "",
-    "text": "29 Feb 2024\n\nhttps://www.monash.edu/researchinfrastructure/eresearch/news/expressions-of-interest-open-for-designing-new-software-or-enhancing-existing-research-codes\nhttps://events.linuxfoundation.org/user/register/\nhttps://ssa2024.talks.jamesgoldie.dev/#/james-goldie\nhttps://carmamaths.org/art/gallery/competition/\n\n7 Mar 2024\n\nhttps://datamishapsnight.com/\n\n21 Mar 2024\n\nhttps://github.com/wurli/r-best-practice\nhttps://www.milesmcbain.com/posts/data-analysis-reuse/https://www.milesmcbain.com/posts/data-analysis-reuse/\nhttps://github.com/FinYang/cran-submission-checklist\nhttps://kestra.io/blogs/2023-08-11-dataframes"
-  },
-  {
-    "objectID": "index.html#motivation-aim",
-    "href": "index.html#motivation-aim",
-    "title": "NUMBAT Hacky hour",
-    "section": "",
-    "text": "The use of software is generally a necessary, or even primary, component of research in statistics, but often statistically trained individuals are not well equipped or trained deeply on computer science, programming principles or even with handling real data. The main idea of this study group is to be greater than the sum of its parts, that is, rather than learning in isolation, we share knowledge and accelerate our learning – hopefully all while having fun!\nThe overarching aim of this study group is to foster an environment for Monash EBS students to get feedback and ideas from those outside their usual mentoring network (usually their supervisors) on matters related to data science research software, facilitate peer mentoring and network. The students get an opportunity to present their work concisely (getting the practice they need), teach concepts they learnt and/or learn from others."
-  },
-  {
-    "objectID": "index.html#code-of-conduct",
-    "href": "index.html#code-of-conduct",
-    "title": "NUMBAT Hacky hour",
-    "section": "Code of conduct",
-    "text": "Code of conduct\nUse common sense - be kind and respectful. Criticism should be constructive and designed to improve a student’s work."
-  },
-  {
-    "objectID": "index.html#session-schedule",
-    "href": "index.html#session-schedule",
-    "title": "NUMBAT Hacky hour",
-    "section": "",
-    "text": "If you would like to subscribe to the calendar click here. (Make sure you are logged into your Monash account)\n\n\n\n\nThursdays (mixed timing) 11AM-12.30PM on NUMBATS Seminar; 1.30-3PM on non-seminar weeks; with virtual option (Zoom Link)\n\n\n\nRoom 317, Building 6, 29 Ancora Imparo Way (unless indicated otherwise)\n\n\n\nAlternating formats Hacky Hour (same as NUMBATS seminar weeks): Shut Up and Code\n\n\n\nShow & Tell sessions: Try it out workshops – Mitch masterclasses?\n\n\n\nNOT drop-in help session Invitation by regular attendees (regular means?) Software & tools focus"
-  },
-  {
-    "objectID": "about.html#motivation-aim",
-    "href": "about.html#motivation-aim",
-    "title": "About",
-    "section": "",
-    "text": "The use of software is generally a necessary, or even primary, component of research in statistics, but often statistically trained individuals are not well equipped or trained deeply on computer science, programming principles or even with handling real data. The main idea of this study group is to be greater than the sum of its parts, that is, rather than learning in isolation, we share knowledge and accelerate our learning – hopefully all while having fun!\nThe overarching aim of this study group is to foster an environment for Monash EBS students to get feedback and ideas from those outside their usual mentoring network (usually their supervisors) on matters related to data science research software, facilitate peer mentoring and network. The students get an opportunity to present their work concisely (getting the practice they need), teach concepts they learnt and/or learn from others."
-  },
-  {
-    "objectID": "about.html#code-of-conduct",
-    "href": "about.html#code-of-conduct",
-    "title": "About",
-    "section": "Code of conduct",
-    "text": "Code of conduct\nUse common sense - be kind and respectful. Criticism should be constructive and designed to improve a student’s work."
-  },
-  {
-    "objectID": "articles/kick-off.html",
-    "href": "articles/kick-off.html",
-    "title": "Kick Off session",
-    "section": "",
-    "text": "Fun name ideas! - RST study group?\nSession ideas & scheduling (initial EOI for presenting)\n\nAccessibility: Show & Tell?\nGit Tricks\nPoster/Presentation Design\nTeaching R/software tools Show & Tell\nvctrs workshop\n\nSession format/frequency (could some activities fall in hacky hour weeks?)\nInviting other attendees - advancedR students"
-  },
-  {
-    "objectID": "articles/kick-off.html#discussion",
-    "href": "articles/kick-off.html#discussion",
-    "title": "Kick Off session",
-    "section": "",
-    "text": "Fun name ideas! - RST study group?\nSession ideas & scheduling (initial EOI for presenting)\n\nAccessibility: Show & Tell?\nGit Tricks\nPoster/Presentation Design\nTeaching R/software tools Show & Tell\nvctrs workshop\n\nSession format/frequency (could some activities fall in hacky hour weeks?)\nInviting other attendees - advancedR students"
   },
   {
     "objectID": "articles/quarto-craft.html",
@@ -175,6 +35,41 @@
     "text": "Speakers\n\nMichael - Quarto productivity in VSCode\n\nSnippets; keybindins or palette\nMichael’s Shippets\n\nhttps://gist.github.com/MikeLydeamore/60bdaa80a746215d593f99d52d7df083\n\nshrtcts for RStudio\n\nhttps://github.com/gadenbuie/shrtcts\n\n\nFilip - Puzzle template\n\nGenerate code chunks incremenally at pipe\n\nhttps://www.filipr.com/posts/r-puzzle-template/\nGlobal environment issues?\n\nBeamer template\n\nhttps://www.filipr.com/posts/beamer-theme/\n\n\nCynthia - Combining quarto extension (themes,etc)\n\nhttps://www.cynthiahqy.com/posts/quarto-extensions-explainer/\n\nMitch - webr in quarto\n\nhttps://github.com/mitchelloharawild/quarto-webr-teachr\n\nJanith - Observable\n\nhttps://janithwanni.quarto.pub/fun-with-ojs/\nD3js - blank canvas\nObservable Plot: prepared plots for exploratory data analysis\nObservable JS\n\nPassing R data to Observable requires transpose\nSimilar design to ggplot; different syntax\nOut of the box interactivity, or very custom beyond ggplot2\nhttps://observablehq.com/@tashapiro\nFor a comparison of ggplot and observable: https://observablehq.com/@observablehq/plot-from-ggplot2\nhttps://uwdata.github.io/mosaic/what-is-mosaic/\n\n\nDi - quarto books\n\nAuthoring HTML & PDF versions of a textbook in Quarto\nHTML ignores latex commands like \\index(), .content-visible conditional content based on HTML/PDF - https://quarto.org/docs/authoring/conditional.html\necho-knitr::is_html_output()"
   },
   {
+    "objectID": "articles/kick-off.html",
+    "href": "articles/kick-off.html",
+    "title": "Kick Off session",
+    "section": "",
+    "text": "Fun name ideas! - RST study group?\nSession ideas & scheduling (initial EOI for presenting)\n\nAccessibility: Show & Tell?\nGit Tricks\nPoster/Presentation Design\nTeaching R/software tools Show & Tell\nvctrs workshop\n\nSession format/frequency (could some activities fall in hacky hour weeks?)\nInviting other attendees - advancedR students"
+  },
+  {
+    "objectID": "articles/kick-off.html#discussion",
+    "href": "articles/kick-off.html#discussion",
+    "title": "Kick Off session",
+    "section": "",
+    "text": "Fun name ideas! - RST study group?\nSession ideas & scheduling (initial EOI for presenting)\n\nAccessibility: Show & Tell?\nGit Tricks\nPoster/Presentation Design\nTeaching R/software tools Show & Tell\nvctrs workshop\n\nSession format/frequency (could some activities fall in hacky hour weeks?)\nInviting other attendees - advancedR students"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The use of software is generally a necessary, or even primary, component of research in statistics, but often statistically trained individuals are not well equipped or trained deeply on computer science, programming principles or even with handling real data. The main idea of this study group is to be greater than the sum of its parts, that is, rather than learning in isolation, we share knowledge and accelerate our learning – hopefully all while having fun!\nThe overarching aim of this study group is to foster an environment for Monash EBS students to get feedback and ideas from those outside their usual mentoring network (usually their supervisors) on matters related to data science research software, facilitate peer mentoring and network. The students get an opportunity to present their work concisely (getting the practice they need), teach concepts they learnt and/or learn from others."
+  },
+  {
+    "objectID": "about.html#motivation-aim",
+    "href": "about.html#motivation-aim",
+    "title": "About",
+    "section": "",
+    "text": "The use of software is generally a necessary, or even primary, component of research in statistics, but often statistically trained individuals are not well equipped or trained deeply on computer science, programming principles or even with handling real data. The main idea of this study group is to be greater than the sum of its parts, that is, rather than learning in isolation, we share knowledge and accelerate our learning – hopefully all while having fun!\nThe overarching aim of this study group is to foster an environment for Monash EBS students to get feedback and ideas from those outside their usual mentoring network (usually their supervisors) on matters related to data science research software, facilitate peer mentoring and network. The students get an opportunity to present their work concisely (getting the practice they need), teach concepts they learnt and/or learn from others."
+  },
+  {
+    "objectID": "about.html#code-of-conduct",
+    "href": "about.html#code-of-conduct",
+    "title": "About",
+    "section": "Code of conduct",
+    "text": "Code of conduct\nUse common sense - be kind and respectful. Criticism should be constructive and designed to improve a student’s work."
+  },
+  {
     "objectID": "articles/package-design-session01.html",
     "href": "articles/package-design-session01.html",
     "title": "Package Design Feedback session",
@@ -203,52 +98,52 @@
     "text": "Speakers\n\nFloyd - prefio\nDavid K. (SoDa Labs) - synthreturn\nJayani - quollr"
   },
   {
-    "objectID": "tabs/index.html",
-    "href": "tabs/index.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "NUMBAT Hacky hour",
     "section": "",
     "text": "If you would like to subscribe to the calendar click here. (Make sure you are logged into your Monash account)\n\n\n\n\nThursdays (mixed timing) 11AM-12.30PM on NUMBATS Seminar; 1.30-3PM on non-seminar weeks; with virtual option (Zoom Link)\n\n\n\nRoom 317, Building 6, 29 Ancora Imparo Way (unless indicated otherwise)\n\n\n\nAlternating formats Hacky Hour (same as NUMBATS seminar weeks): Shut Up and Code\n\n\n\nShow & Tell sessions: Try it out workshops – Mitch masterclasses?\n\n\n\nNOT drop-in help session Invitation by regular attendees (regular means?) Software & tools focus"
   },
   {
-    "objectID": "tabs/index.html#session-schedule",
-    "href": "tabs/index.html#session-schedule",
+    "objectID": "index.html#session-schedule",
+    "href": "index.html#session-schedule",
     "title": "NUMBAT Hacky hour",
     "section": "",
     "text": "If you would like to subscribe to the calendar click here. (Make sure you are logged into your Monash account)\n\n\n\n\nThursdays (mixed timing) 11AM-12.30PM on NUMBATS Seminar; 1.30-3PM on non-seminar weeks; with virtual option (Zoom Link)\n\n\n\nRoom 317, Building 6, 29 Ancora Imparo Way (unless indicated otherwise)\n\n\n\nAlternating formats Hacky Hour (same as NUMBATS seminar weeks): Shut Up and Code\n\n\n\nShow & Tell sessions: Try it out workshops – Mitch masterclasses?\n\n\n\nNOT drop-in help session Invitation by regular attendees (regular means?) Software & tools focus"
   },
   {
-    "objectID": "tabs/about.html",
-    "href": "tabs/about.html",
-    "title": "About",
-    "section": "",
-    "text": "The use of software is generally a necessary, or even primary, component of research in statistics, but often statistically trained individuals are not well equipped or trained deeply on computer science, programming principles or even with handling real data. The main idea of this study group is to be greater than the sum of its parts, that is, rather than learning in isolation, we share knowledge and accelerate our learning – hopefully all while having fun!\nThe overarching aim of this study group is to foster an environment for Monash EBS students to get feedback and ideas from those outside their usual mentoring network (usually their supervisors) on matters related to data science research software, facilitate peer mentoring and network. The students get an opportunity to present their work concisely (getting the practice they need), teach concepts they learnt and/or learn from others."
-  },
-  {
-    "objectID": "tabs/about.html#motivation-aim",
-    "href": "tabs/about.html#motivation-aim",
-    "title": "About",
-    "section": "",
-    "text": "The use of software is generally a necessary, or even primary, component of research in statistics, but often statistically trained individuals are not well equipped or trained deeply on computer science, programming principles or even with handling real data. The main idea of this study group is to be greater than the sum of its parts, that is, rather than learning in isolation, we share knowledge and accelerate our learning – hopefully all while having fun!\nThe overarching aim of this study group is to foster an environment for Monash EBS students to get feedback and ideas from those outside their usual mentoring network (usually their supervisors) on matters related to data science research software, facilitate peer mentoring and network. The students get an opportunity to present their work concisely (getting the practice they need), teach concepts they learnt and/or learn from others."
-  },
-  {
-    "objectID": "tabs/about.html#code-of-conduct",
-    "href": "tabs/about.html#code-of-conduct",
-    "title": "About",
-    "section": "Code of conduct",
-    "text": "Code of conduct\nUse common sense - be kind and respectful. Criticism should be constructive and designed to improve a student’s work."
-  },
-  {
-    "objectID": "tabs/news.html",
-    "href": "tabs/news.html",
+    "objectID": "news.html",
+    "href": "news.html",
     "title": "Interesting News",
     "section": "",
     "text": "29 Feb 2024\n\nhttps://www.monash.edu/researchinfrastructure/eresearch/news/expressions-of-interest-open-for-designing-new-software-or-enhancing-existing-research-codes\nhttps://events.linuxfoundation.org/user/register/\nhttps://ssa2024.talks.jamesgoldie.dev/#/james-goldie\nhttps://carmamaths.org/art/gallery/competition/\n\n7 Mar 2024\n\nhttps://datamishapsnight.com/\n\n21 Mar 2024\n\nhttps://github.com/wurli/r-best-practice\nhttps://www.milesmcbain.com/posts/data-analysis-reuse/https://www.milesmcbain.com/posts/data-analysis-reuse/\nhttps://github.com/FinYang/cran-submission-checklist\nhttps://kestra.io/blogs/2023-08-11-dataframes"
   },
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Session Schedule",
+    "objectID": "articles/package-desing-feedback02.html",
+    "href": "articles/package-desing-feedback02.html",
+    "title": "Package Design Feedback session 2",
     "section": "",
-    "text": "Warning: package 'dplyr' was built under R version 4.3.3\n\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\n\n\nAttaching package: 'lubridate'\n\n\nThe following objects are masked from 'package:base':\n\n    date, intersect, setdiff, union\n\n\nWarning: package 'yaml' was built under R version 4.3.2\n\n\nWarning: package 'ggplot2' was built under R version 4.3.3\n\n\nWarning: package 'ggiraph' was built under R version 4.3.3\n\n\n\n\nReframing using grouping by: `id`, `details`, `categories`, `startTime`,\n`endTime`, `room`, `emoji`, and `emoiji`\n\n\n\n\nReframing using grouping by: `id`, `details`, `categories`, `startTime`,\n`endTime`, `room`, `emoji`, and `emoiji`\n\n\n\nggiraph::girafe(ggobj = test)"
+    "text": "15+15 mins Presentation + Discussion"
+  },
+  {
+    "objectID": "articles/package-desing-feedback02.html#format",
+    "href": "articles/package-desing-feedback02.html#format",
+    "title": "Package Design Feedback session 2",
+    "section": "",
+    "text": "15+15 mins Presentation + Discussion"
+  },
+  {
+    "objectID": "articles/package-desing-feedback02.html#details",
+    "href": "articles/package-desing-feedback02.html#details",
+    "title": "Package Design Feedback session 2",
+    "section": "Details",
+    "text": "Details\nExplain a software design/engineering problem you are facing in your current package work. Slides optional. Suggested presentation structure:\n\nPackage Context (1-2 mins): Background, motivation, target user, features etc.\nDevelopment Challenge(s) (5-7 mins): Outline the specific problem/idea you want feedback"
+  },
+  {
+    "objectID": "articles/package-desing-feedback02.html#speakers",
+    "href": "articles/package-desing-feedback02.html#speakers",
+    "title": "Package Design Feedback session 2",
+    "section": "Speakers",
+    "text": "Speakers\n\nKris - animbook https://github.com/KrisanatA/animbook\nPatrick - autovi\nFin - pindex"
   }
 ]

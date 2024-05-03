@@ -15,8 +15,10 @@ website:
             file: articles/kick-off.qmd
           - text: Quarto Craft
             file: articles/quarto-craft.qmd
-          - text: Package Design Feedback
+          - text: Package Design Feedback 1
             file: articles/package-design-session01.qmd
+          - text: Package Design Feedback 2
+            file: articles/package-design-session02.qmd
       - text: News
         href: news.qmd
       - about.qmd
