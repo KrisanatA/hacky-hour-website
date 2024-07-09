@@ -9,7 +9,7 @@ website:
         text: Home
       - text: Schedule
         href: schedule.qmd
-      - text: Activiy
+      - text: Activity
         menu: 
           - text: Kick Off
             file: articles/kick-off.qmd
@@ -18,7 +18,7 @@ website:
           - text: Package Design Feedback 1
             file: articles/package-design-session01.qmd
           - text: Package Design Feedback 2
-            file: articles/package-design-session02.qmd
+            file: articles/package-design-feedback02.qmd
       - text: News
         href: news.qmd
       - about.qmd
