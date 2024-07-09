@@ -1,7 +1,0 @@
----
-title: Quarto Craft session
-date: 03/07/2024
-date-format: long
----
-
-10min show and tell slots. 
