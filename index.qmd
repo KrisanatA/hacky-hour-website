@@ -6,37 +6,35 @@ title: "NUMBAT Hacky hour"
 
 If you would like to subscribe to the calendar click [here](https://calendar.google.com/calendar/u/0?cid=Y19lODdmNWI3NTMwMWEyN2NjYjExNWFjYTQwZTcxMGFlM2ExMzY3NTllNDFkMDUzNWI5ZGY3OGUyYzEyZmFiMjg2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20). (Make sure you are logged into your Monash account)
 
-### 2024 Semester 1
+### 2024 Semester 2
 
 #### Date & Time: 
 
 Thursdays (mixed timing)
-11AM-12.30PM on NUMBATS Seminar;
+10:30AM-12.00PM on NUMBATS Seminar;
 1.30-3PM on non-seminar weeks; with virtual option ([Zoom Link](https://monash.zoom.us/j/82476265322?pwd=L0ZrVkhPYmFCSEoxWGR2dVlMaTA2UT09))
 
 
 #### Location: 
 
-Room 317, Building 6, 29 Ancora Imparo Way (unless indicated otherwise)
-
+Room 317, Building 6, 29 Ancora Imparo Way **or** Room 203, Building 6, 29 Ancora Imparo Way (check the schedule tab to see where it's happening this week)
 
 #### Format: 
 
-Alternating formats
-Hacky Hour (same as NUMBATS seminar weeks):
-Shut Up and Code
+Hacky hour is held in two alternating formats.
 
+**Shut Up and Code**
 
-#### Study Group:
+Held on the NUMBATS seminar weeks and consists of everyone working on their own projects in short bursts and sharing help with each other.
 
-Show & Tell sessions: 
-Try it out workshops – Mitch masterclasses?
+**Study Group / Brown bag sessions**
 
+Held on the off weeks and consists of Show & Tell sessions or workshops where everyone shares the knowledge and questions they have gathered on different topics.
 
 #### Audience/Focus:
 
-NOT drop-in help session
-Invitation by regular attendees (regular means?)
-Software & tools focus
+* This is NOT drop-in help session
+* Invitation by regular attendees
+* Software & tools focused. you don't need to be a pro at coding but it would be helpful to have a basic understanding.
 
 
