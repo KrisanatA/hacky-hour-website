@@ -44,7 +44,7 @@
   categories: Break
   startTime: .na.character
   endTime: .na.character
-  room: .na.character
+  room: Monash University
   emoji: 🧘
 - details: Hacky Hour
   startDate: '2024-04-11'
@@ -68,7 +68,7 @@
   categories: Break
   startTime: .na.character
   endTime: .na.character
-  room: .na.character
+  room: Monash University
   emoji: 🌺
 - details: Weird Quirks of R / R Puzzles
   startDate: '2024-05-02'
@@ -108,7 +108,7 @@
   categories: Hackathon
   startTime: .na.character
   endTime: .na.character
-  room: .na.character
+  room: Daylesford
   emoji: 🛌
 - details: Favourite R Packages & Debrief
   startDate: '2024-06-06'
