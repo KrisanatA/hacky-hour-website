@@ -6,23 +6,23 @@
   endTime: '15:00:00'
   room: Building 6 Room 203
   emoji: 🚀
-- details: Hacky Hour
+- details: "Tales from Salzburg: useR! 2024 stories and learnt lessons"
   startDate: '2024-08-01'
   endDate: '2024-08-01'
   categories: Hacky Hour
   startTime: '10:30:00'
   endTime: '12:00:00'
-  room: Building 6 Room 317
+  room: Building 6 Room 203
   emoji: 👩🏻‍💻
-- details: Brown bag session
+- details: Quarto for research outputs
   startDate: '2024-08-08'
   endDate: '2024-08-08'
   categories: Study Group
   startTime: '13:30:00'
   endTime: '15:00:00'
-  room: Building 6 Room 317
+  room: Building 6 Room 203
   emoji: 🎨
-- details: Hacky Hour
+- details: "Package Design Feedback prequel"
   startDate: '2024-08-15'
   endDate: '2024-08-15'
   categories: Hacky Hour
@@ -30,7 +30,7 @@
   endTime: '12:00:00'
   room: Building 6 Room 317
   emoji: 👩🏻‍💻
-- details: Brown bag session
+- details: Package Design Feedback
   startDate: '2024-08-22'
   endDate: '2024-08-22'
   categories: Break
@@ -38,7 +38,7 @@
   endTime: '15:00:00'
   room: Building 6 Room 203
   emoji: 🎨
-- details: Hacky Hour
+- details: Plot Crimes
   startDate: '2024-08-29'
   endDate: '2024-08-29'
   categories: Hacky Hour
@@ -46,7 +46,7 @@
   endTime: '12:00:00'
   room: Building 6 Room 317
   emoji: 👩🏻‍💻
-- details: Brown bag session
+- details: Git Group Therapy
   startDate: '2024-09-05'
   endDate: '2024-09-05'
   categories: Study Group
@@ -54,7 +54,7 @@
   endTime: '15:00:00'
   room: Building 6 Room 203
   emoji: 🎨
-- details: Hacky hour
+- details: "Getting personal: Build your personal website sprint"
   startDate: '2024-09-12'
   endDate: '2024-09-12'
   categories: Hacky hour
@@ -62,7 +62,7 @@
   endTime: '12:00:00'
   room: Building 6 Room 317
   emoji: 👩🏻‍💻
-- details: Brown bag session
+- details: Clear Concise Concrete Writing Tips
   startDate: '2024-09-19'
   endDate: '2024-09-19'
   categories: Study Group
@@ -78,7 +78,7 @@
   endTime: .na.character
   room: Monash University
   emoji: 😴
-- details: Brown bag session
+- details: Beating the writer's block in style and consistency
   startDate: '2024-10-03'
   endDate: '2024-10-03'
   categories: Study Group
@@ -86,7 +86,7 @@
   endTime: '15:00:00'
   room: Building 6 Room 203
   emoji: 🎨
-- details: Hacky Hour
+- details: Cool applications in webR
   startDate: '2024-10-10'
   endDate: '2024-10-10'
   categories: Hacky Hour
@@ -94,7 +94,7 @@
   endTime: '12:00:00'
   room: Building 6 Room 317
   emoji: 👩🏻‍💻
-- details: Brown bag session
+- details: Spreading the joy of your package
   startDate: '2024-10-17'
   endDate: '2024-10-17'
   categories: Study Group
@@ -102,7 +102,7 @@
   endTime: '15:00:00'
   room: Building 6 Room 203
   emoji:  🎨
-- details: Hacky hour
+- details: Shut up and Code session
   startDate: '2024-10-24'
   endDate: '2024-10-24'
   categories: Hacky Hour
@@ -110,7 +110,7 @@
   endTime: '12:00:00'
   room: Building 6 Room 317
   emoji: 👩🏻‍💻
-- details: Brown bag session
+- details: "{{vctrs}} dojo"
   startDate: '2024-10-31'
   endDate: '2024-10-31'
   categories: Debrief
